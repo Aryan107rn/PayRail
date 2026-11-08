@@ -102,32 +102,8 @@ A dedicated environment for testing payment infrastructure under controlled fail
 
 ---
 
-## Project Structure
+<!--## Project Structure-->
 
-```text
-payrail/
-├── apps/
-│   ├── api/
-│   └── dashboard/
-├── packages/
-│   ├── database/
-│   ├── shared/
-│   └── provider-sdk/
-├── docs/
-│   ├── architecture/
-│   ├── api/
-│   ├── database/
-│   └── images/
-├── infrastructure/
-├── tests/
-├── docker-compose.yml
-├── pnpm-workspace.yaml
-├── .env.example
-├── LICENSE
-└── README.md
-```
-
----
 
 ## Development Roadmap
 
