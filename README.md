@@ -40,7 +40,7 @@ PayRail follows a modular monolith architecture with asynchronous background pro
 |---|---|
 | Frontend | React, TypeScript |
 | Styling | Tailwind CSS |
-| Backend | Node.js, Fastify, TypeScript |
+| Backend | Node.js, Express.js, TypeScript |
 | ORM | Drizzle ORM |
 | Database | PostgreSQL |
 | Queue & Cache | Redis, BullMQ |
