@@ -32,29 +32,7 @@ PayRail addresses these challenges through a centralized orchestration and relia
 
 PayRail follows a modular monolith architecture with asynchronous background processing, designed for maintainability, consistency and scalability.
 
-### High-Level Design
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88946978-c420-4d6b-a11e-2454f9bf25a0" />
-
-
-### Payment Execution Flow
-
-<!-- Add Payment Execution Flow Diagram Here -->
-
-![PayRail Payment Flow](docs/architecture/payment-flow.png)
-
-### Payment Lifecycle
-
-<!-- Add Payment State Machine Diagram Here -->
-
-![PayRail Payment State Machine](docs/architecture/payment-state-machine.png)
-
-### Database Design
-
-<!-- Add Database ER Diagram Here -->
-
-![PayRail Database ER Diagram](docs/architecture/database-erd.png)
-
----
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/baff64ac-1239-465a-bdca-f0be25e6bf59" />
 
 ## Technology Stack
 
