@@ -34,9 +34,8 @@ PayRail follows a modular monolith architecture with asynchronous background pro
 
 ### High-Level Architecture
 
-<!-- Add High-Level Architecture Diagram Here -->
+![Uploading image.png…]()
 
-![PayRail High-Level Architecture](docs/architecture/high-level-architecture.png)
 
 ### Payment Execution Flow
 
