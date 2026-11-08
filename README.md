@@ -1,4 +1,4 @@
-# PayRail
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88946978-c420-4d6b-a11e-2454f9bf25a0" /># PayRail
 
 ### Payment Orchestration, Reliability & Observability Platform
 
@@ -32,9 +32,9 @@ PayRail addresses these challenges through a centralized orchestration and relia
 
 PayRail follows a modular monolith architecture with asynchronous background processing, designed for maintainability, consistency and scalability.
 
-### High-Level Architecture
+### High-Level Design
 
-![Uploading image.png…]()
+blob:https://chatgpt.com/605bad80-c5c0-4f33-a1c1-224c02dec2fa
 
 
 ### Payment Execution Flow
